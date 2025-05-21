@@ -11,17 +11,15 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
   
-## Demo
+## Demo Video
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://drive.google.com/file/d/1gGZbThEQUDHHVK7l5gJk0LZ8OIv6ES3I/view?usp=sharing)
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/Mayuresh1204/MSMessenger
 ```
 
 Go to the project directory
