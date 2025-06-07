@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# MSMessenger
 
-Talk-a-tive is a Full Stack Chatting App.
+MSMessenger is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -74,6 +74,6 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- [@Mayuresh1204](https://github.com/Mayuresh1204)
 
   
